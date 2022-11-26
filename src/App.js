@@ -1,11 +1,10 @@
 import React from 'react'
-import UseEffectAPI from './UseEffectAPI'
-
+import Todolist from './Todolist'
 
 const App = () => {
   return (
     <div>
-     <UseEffectAPI/>
+      <Todolist/>
     </div>
   )
 }
